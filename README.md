@@ -1,2 +1,1 @@
-This file makes conflict.
-
+Barry J Marshall Library
